@@ -19,7 +19,7 @@
 ---
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Theo-Mestre&theme=solarized-light&border_radius=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Theo-Mestre&theme=solarized-light&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light)
 
