@@ -19,8 +19,8 @@
 ---
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Theo-Mestre&theme=solarized-light&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&hide_border=true&card_width=460)](https://git.io/streak-stats)
 
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light)
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Mestre&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
