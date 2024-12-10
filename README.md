@@ -19,12 +19,12 @@
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 <br />
-          
+
 ---
 ### Stats
 
 <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&hide_border=true&card_width=460" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&border=EBE1D9&card_width=460" alt="GitHub Streak"/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460" alt="Theo's GitHub stats"/>
 
