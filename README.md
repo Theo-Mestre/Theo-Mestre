@@ -1,16 +1,11 @@
 # Theo MESTRE
 **`Game Developer`**
 
-<!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Digital+Crafting)](https://git.io/typing-svg) --->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=1024&lines=Coding+like+poetry+should+be+short+and+concise.+―+Santosh+Kalwar)](https://git.io/typing-svg)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Theo-Mestre"
-    width="400"
-    height="120"
-  />
-</a>
-  
+  <img src="https://render.gitanimals.org/lines/Theo-Mestre" width="600" height="200"/>
+</a>  
 
 ### Tools
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
@@ -28,8 +23,10 @@
 ---
 ### Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&hide_border=true&card_width=460)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&hide_border=true&card_width=460" alt="GitHub Streak"/>
+</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460" alt="Theo's GitHub stats"/>
 
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Mestre&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Mestre&theme=solarized-light&langs_count=8&card_width=460" alt="Top Languages" style="align-self: stretch;"/>
