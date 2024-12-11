@@ -27,6 +27,6 @@
 <img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&border=EBE1D9&card_width=460" alt="GitHub Streak"/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460" alt="Theo's GitHub stats"/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Mestre&theme=solarized-light&langs_count=8&card_width=460" alt="Top Languages" style="align-self: stretch;"/>
+</a>
