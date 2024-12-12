@@ -24,7 +24,7 @@
 ### Stats
 
 <a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&border=EBE1D9&card_width=460" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-blush-six.vercel.app?user=Theo-Mestre&theme=solarized-light&border=EBE1D9&card_width=460" alt="Theo's GitHub Streak"/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=Theo-Mestre&show_icons=true&theme=solarized-light&card_width=460" alt="Theo's GitHub stats"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
