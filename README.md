@@ -1,8 +1,6 @@
 # Theo MESTRE
 **`Game Developer`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=1024&lines=Coding+like+poetry+should+be+short+and+concise.+―+Santosh+Kalwar)](https://git.io/typing-svg)
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Theo-Mestre" width="600" height="200"/>
 </a>  
