@@ -16,6 +16,8 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/notion/notion-original.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/trello/trello-plain.svg" />
 <br />
 
 ---
